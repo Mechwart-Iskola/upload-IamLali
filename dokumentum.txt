@@ -1,2 +1,2 @@
-név:
-osztály:
+név: Györfi Lajos
+osztály:10C
